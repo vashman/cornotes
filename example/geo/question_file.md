@@ -130,3 +130,54 @@ Why do we need maps?
 
 What are the 3 types of maps?
 Why Community Mapping?
+
+# The Changing Global Context
+## The Changing World
+## World System
+## Development of Mini-systems
+## The Growth of World Empires
+## Geography of the Pre-modern World
+## European Based World System
+## Industrialization and Geographic Change
+## Industrialization in Europe
+## Industrialization in USA
+## Major Change in the World-System
+## Decolonization
+# Geographies of Population
+## Sources of Population Data
+## World Population
+## Core Demographic Concepts
+## Population Density
+## Age-Sex Pyramid
+## Dependency Ratio
+## Population Dynamics and Processes
+### Crude Birth or Fertility Rate:
+### Crude Death or Mortality Rate:
+### Fertility:
+### Natural Increase:
+## World Population Distribution
+## Population Movement and Migration
+### Factors Encourage Migration
+## Population Policies and Programs
+### Initiatives at International Level
+### Core vs. Peripheral Countries
+### Initiatives at International LevelCairo, 1994
+### Other Policy Initiatives
+# Agriculture and Food Production
+## What do you mean by agriculture?
+## Pre-agricultural Activities
+## Subsistence Agriculture
+## Shifting Cultivation
+### Methods of Shifting Cultivation
+### Impacts of Shifting Cultivation
+### Intensive Subsistence Agriculture
+### Characteristics of Intensive Subsistence Agriculture
+## Pastoralism
+## Agricultural Revolutions
+### Impacts of Second Agricultural Revolution
+### The Green Revolution
+### Development of Agriculture in Canada
+#### Agriculture in Canadian LifeRecent Developments
+#### Opportunities Ahead for Canadas Agricultural Sector
+##### Possible Options for the Future
+###### Criteria for Organic FoodLabeling in Canada
