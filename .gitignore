@@ -44,3 +44,4 @@
 # Build Directories
 /build/doc
 /build/bin
+/Debug/
