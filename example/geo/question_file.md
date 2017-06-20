@@ -1,12 +1,20 @@
 # Geography
 What is the meaning of geo graphein?
+
 Which questions do geographers find answers too?
+
 How many answers are there to the second type of question from above?
+
 What is a spatial science?
-What is spatial variation? What does it define?
+
+What is spatial variation?
+What does it define?
 What else do geographers observe?
+
 What are the subfields?
+
 What is human geography concerned with?
+
 How many branches are there in human geo?
 
 # Fundamental Concepts
